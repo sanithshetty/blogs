@@ -68,7 +68,14 @@
   border-radius: 8px;
   cursor: pointer;
 }
-
+.blog-details .edit{
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  margin-left: 5px;
+  border-radius: 8px;
+  cursor: pointer;
+}
 /* create new blog form */
 .create {
   max-width: 400px;
@@ -100,3 +107,4 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
